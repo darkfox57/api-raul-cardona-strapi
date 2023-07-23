@@ -14,9 +14,10 @@
     "title": {
       "type": "string",
       "required": true,
-      "default": "20",
-      "regex": "150",
-      "unique": true
+      "unique": true,
+      "maxLength": 150,
+      "minLength": 20,
+      "private": true
     },
     "slug": {
       "type": "uid",
