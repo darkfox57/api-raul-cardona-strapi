@@ -16,8 +16,7 @@
       "required": true,
       "unique": true,
       "maxLength": 150,
-      "minLength": 20,
-      "private": true
+      "minLength": 20
     },
     "slug": {
       "type": "uid",
