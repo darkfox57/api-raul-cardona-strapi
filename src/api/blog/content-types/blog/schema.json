@@ -28,9 +28,7 @@
       "required": true
     },
     "cover": {
-      "allowedTypes": [
-        "images"
-      ],
+      "allowedTypes": ["images"],
       "type": "media",
       "multiple": false
     },
@@ -40,11 +38,11 @@
       "target": "api::category.category",
       "mappedBy": "blogs"
     },
-    "invitation_form": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::invitation-form.invitation-form",
-      "mappedBy": "location"
+    "pdf": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["files"]
     }
   }
 }
