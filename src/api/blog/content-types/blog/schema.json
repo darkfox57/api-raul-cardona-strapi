@@ -14,7 +14,7 @@
     "title": {
       "type": "string",
       "required": true,
-      "default": "70",
+      "default": "20",
       "regex": "150",
       "unique": true
     },
