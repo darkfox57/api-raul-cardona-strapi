@@ -15,11 +15,23 @@
     "name": {
       "type": "string"
     },
-    "locations": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::invitation-form.invitation-form",
-      "mappedBy": "location"
+    "Zona": {
+      "type": "enumeration",
+      "enum": [
+        "Zona 1",
+        "Zona 2",
+        "Zona 3",
+        "Zona 4",
+        "Zona 5",
+        "Zona 6",
+        "Zona 7",
+        "Zona 8",
+        "Zona 9",
+        "Zona 10",
+        "Zona 11",
+        "Zona 12",
+        "Zona 13"
+      ]
     }
   }
 }
