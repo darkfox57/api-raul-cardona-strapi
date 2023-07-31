@@ -39,10 +39,7 @@
       "mappedBy": "blogs"
     },
     "pdf": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": ["files"]
+      "type": "string"
     }
   }
 }
