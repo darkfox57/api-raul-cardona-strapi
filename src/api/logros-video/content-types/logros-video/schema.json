@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "logros_videos",
+  "info": {
+    "singularName": "logros-video",
+    "pluralName": "logros-videos",
+    "displayName": "logrosVideo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Youtube_Video": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "info": {
     "singularName": "proposal",
     "pluralName": "proposals",
-    "displayName": "Proposal"
+    "displayName": "Propuestas"
   },
   "options": {
     "draftAndPublish": true

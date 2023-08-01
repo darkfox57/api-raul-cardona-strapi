@@ -4,7 +4,7 @@
   "info": {
     "singularName": "proposal-form",
     "pluralName": "proposal-forms",
-    "displayName": "ProposalForm"
+    "displayName": "Formulario_Propuestas"
   },
   "options": {
     "draftAndPublish": true
