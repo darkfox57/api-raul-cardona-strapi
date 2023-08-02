@@ -4,7 +4,7 @@
   "info": {
     "singularName": "logros-video",
     "pluralName": "logros-videos",
-    "displayName": "logrosVideo"
+    "displayName": "Video Logros"
   },
   "options": {
     "draftAndPublish": true
